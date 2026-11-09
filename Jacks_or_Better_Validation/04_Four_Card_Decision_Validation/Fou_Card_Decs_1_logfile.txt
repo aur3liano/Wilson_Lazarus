@@ -1,0 +1,14 @@
+Progress: 8.75 % at time: 0.167 minutes
+Progress: 15.521 % at time: 0.333 minutes
+Progress: 21.571 % at time: 0.5 minutes
+Progress: 28.781 % at time: 0.667 minutes
+Progress: 35.43 % at time: 0.833 minutes
+Progress: 41.599 % at time: 1.0 minutes
+Progress: 47.66 % at time: 1.167 minutes
+Progress: 54.66 % at time: 1.333 minutes
+Progress: 61.323 % at time: 1.5 minutes
+Progress: 67.698 % at time: 1.667 minutes
+Progress: 73.996 % at time: 1.833 minutes
+Progress: 81.118 % at time: 2.0 minutes
+Progress: 87.896 % at time: 2.167 minutes
+Progress: 95.35 % at time: 2.333 minutes
